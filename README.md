@@ -1,10 +1,93 @@
 
 # Изучаем язык Go
 
-Этот проект является моими конспектами изучения языка Go. За основу берутся эти [77 уроков](https://gobyexample.com/) по 
-синтаксису с моими дополнениями.
+Этот проект является моими конспектами изучения языка Go. За основу берутся эти [80 уроков](https://gobyexample.com/) с 
+моими дополнениями.
 
 ## Установка
 
 Если при работе с Go возникли проблемы с GOPATH, вы можете воспользоваться моей 
 [инструкцией по установке Go](https://github.com/WalkWeb/Crib/blob/master/Go.md)
+
+## Список уроков
+
+1. [Hello World](https://github.com/WalkWeb/go-lesson-ru/tree/master/1_hello_world)
+2. [Работа с различными типами данных](https://github.com/WalkWeb/go-lesson-ru/tree/master/2_values)
+3. [Переменные](https://github.com/WalkWeb/go-lesson-ru/tree/master/3_variables)
+4. [Константы](https://github.com/WalkWeb/go-lesson-ru/tree/master/4_constants)
+5. [Циклы](https://github.com/WalkWeb/go-lesson-ru/tree/master/5_for)
+6. [Условия](https://github.com/WalkWeb/go-lesson-ru/tree/master/6_if_else)
+7. [Switch](https://github.com/WalkWeb/go-lesson-ru/tree/master/7_switch)
+8. [Массивы](https://github.com/WalkWeb/go-lesson-ru/tree/master/8_arrays)
+9. [Срезы](https://github.com/WalkWeb/go-lesson-ru/tree/master/9_slices)
+10. [Карты](https://github.com/WalkWeb/go-lesson-ru/tree/master/10_maps)
+11. [Range](https://github.com/WalkWeb/go-lesson-ru/tree/master/11_range)
+12. [Функции](https://github.com/WalkWeb/go-lesson-ru/tree/master/12_functions)
+13. [Несколько возвращаемых значений](https://github.com/WalkWeb/go-lesson-ru/tree/master/13_multiple_return_values)
+14. [Вариативные функции](https://github.com/WalkWeb/go-lesson-ru/tree/master/14_variadic_functions)
+15. [Замыкания](https://github.com/WalkWeb/go-lesson-ru/tree/master/15_closures)
+16. [Рекурсия](https://github.com/WalkWeb/go-lesson-ru/tree/master/16_recursion)
+17. [Указатели](https://github.com/WalkWeb/go-lesson-ru/tree/master/17_pointers)
+18. [Строки и руны](https://github.com/WalkWeb/go-lesson-ru/tree/master/18_strings_and_runes)
+19. [Структуры](https://github.com/WalkWeb/go-lesson-ru/tree/master/19_structs)
+20. [Методы](https://github.com/WalkWeb/go-lesson-ru/tree/master/20_methods)
+21. [Интерфейсы](https://github.com/WalkWeb/go-lesson-ru/tree/master/21_interfaces)
+22. [Встраивание структур](https://github.com/WalkWeb/go-lesson-ru/tree/master/22_struct_embedding)
+23. Дженерики
+24. Ошибки
+25. Горутины
+26. Каналы
+27. Буферизация каналов
+28. Синхронизация каналов
+29. Направления каналов
+30. Select
+31. Тайм-ауты
+32. Неблокирующие операции с каналами
+33. Закрытие каналов
+34. Range по каналам
+35. Таймеры
+36. Тикеры
+37. Рабочие пулы
+38. WaitGroup
+39. Ограничение скорости
+40. sync/atomic
+41. Mutexes
+42. Отслеживание состояний горутин
+43. Сортировка
+44. Сортировка по функциям
+45. Panic
+46. Defer
+47. Recover
+48. Строковые функции
+49. Форматирование строк
+50. Текстовые шаблоны
+51. Регулярные выражения
+52. JSON
+53. XML
+54. Время
+55. Epoch
+56. Форматирование/парсинг времени
+57. Случайные числа
+58. Парсинг номера
+59. Парсинг URL
+60. Хэши SHA256
+61. Кодировка Base64
+62. Чтение файлов
+63. Запись файлов
+64. Line Filters
+65. Пути к файлам
+66. Директории
+67. Временные файлы и директории
+68. Встраивание директив
+69. Тестирование и бенчмаркинг
+70. Аргументы командной строки
+71. Флаги командной строки
+72. Подкоманды командной строки
+73. Переменные среды (env)
+74. HTTP-клиенты
+75. HTTP-серверы
+76. Контекст
+77. Порождение процессов
+78. Выполнение процессов
+79. Сингалы
+80. Exit
