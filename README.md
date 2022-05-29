@@ -34,7 +34,7 @@
 21. [Интерфейсы](https://github.com/WalkWeb/go-lesson-ru/tree/master/21_interfaces)
 22. [Встраивание структур](https://github.com/WalkWeb/go-lesson-ru/tree/master/22_struct_embedding)
 23. Дженерики
-24. Ошибки
+24. [Ошибки](https://github.com/WalkWeb/go-lesson-ru/tree/master/24_errors)
 25. Горутины
 26. Каналы
 27. Буферизация каналов
