@@ -3,7 +3,7 @@ package main
 
 import "fmt"
 
-type square struct {
+type rectangle struct {
     width, height int
 }
 
@@ -12,11 +12,11 @@ type user struct {
     year int
 }
 
-func (r square) area() int {
+func (r rectangle) area() int {
     return r.width * r.height;
 }
 
-func (r square) perimeter() int {
+func (r rectangle) perimeter() int {
     return 2*r.width + 2*r.height;
 }
 
@@ -32,11 +32,11 @@ func (u *user) birthday_link() int {
 
 func main() {
 
-    s := square{10, 5}
+    r := rectangle{10, 5}
 
-    fmt.Println(s)
-    fmt.Println("square area:", s.area())
-    fmt.Println("square perimeter:", s.perimeter())
+    fmt.Println(r)
+    fmt.Println("rectangle area:", r.area())
+    fmt.Println("rectangle perimeter:", r.perimeter())
 
     u1 := user{"Vasya", 30}
 

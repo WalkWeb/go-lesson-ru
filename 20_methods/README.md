@@ -5,10 +5,10 @@
 к [структурам](https://github.com/WalkWeb/go-lesson-ru/tree/master/19_structs). Получая в сумме то, что можно считать
 объектом: данные и связанные с ними методы.
 
-Создадим структуру `square`:
+Создадим структуру `rectangle`:
 
 ```
-type square struct {
+type rectangle struct {
     width, height int
 }
 ```
@@ -16,11 +16,11 @@ type square struct {
 И привяжем к ней два метода `area()` и `perimeter()`:
 
 ```
-func (r square) area() int {
+func (r rectangle) area() int {
     return r.width * r.height;
 }
 
-func (r square) perimeter() int {
+func (r rectangle) perimeter() int {
     return 2*r.width + 2*r.height;
 }
 ```
@@ -30,26 +30,26 @@ func (r square) perimeter() int {
 методам:
 
 ```
-    s := square{10, 5}
+    r := rectangle{10, 5}
 
-    fmt.Println(s)
-    fmt.Println("square area:", s.area())
-    fmt.Println("square perimeter:", s.perimeter())
+    fmt.Println(r)
+    fmt.Println("rectangle area:", r.area())
+    fmt.Println("rectangle perimeter:", r.perimeter())
 ```
 
 Выполнив написанный код получим:
 
 ```
 {10 5}
-square area: 50
-square perimeter: 30
+rectangle area: 50
+rectangle perimeter: 30
 ```
 
 При этом методы могут работать со связанной структурой как просто с данными, так и как с 
 [указателем](https://github.com/WalkWeb/go-lesson-ru/tree/master/17_pointers), в последнем случае все сделанные 
 изменения в данных сохранятся.
 
-Второй вариант делается через передачу структуры по указателю `func (r *square)`, но для большей наглядности сделаем
+Второй вариант делается через передачу структуры по указателю `func (r *rectangle)`, но для большей наглядности сделаем
 отдельную структуру с отдельными методами. Создаем структуру `user`:
 
 ```
