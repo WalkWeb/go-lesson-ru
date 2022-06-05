@@ -36,7 +36,7 @@
 23. Дженерики
 24. [Ошибки](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/24_errors)
 25. [Горутины](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/25_goroutines)
-26. Каналы
+26. [Каналы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/26_channels)
 27. Буферизация каналов
 28. Синхронизация каналов
 29. Направления каналов
