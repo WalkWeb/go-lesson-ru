@@ -37,7 +37,7 @@
 24. [Ошибки](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/24_errors)
 25. [Горутины](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/25_goroutines)
 26. [Каналы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/26_channels)
-27. Буферизация каналов
+27. [Буферизация каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/27_channel_buffering)
 28. Синхронизация каналов
 29. Направления каналов
 30. Select
