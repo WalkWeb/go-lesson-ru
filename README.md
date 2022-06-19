@@ -40,7 +40,7 @@
 27. [Буферизация каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/27_channel_buffering)
 28. [Синхронизация каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/28_channel_synchronization)
 29. [Направления каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/29_channel_directions)
-30. Select
+30. [Select](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/30_select)
 31. Тайм-ауты
 32. Неблокирующие операции с каналами
 33. Закрытие каналов
