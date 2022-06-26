@@ -43,7 +43,7 @@
 30. [Select](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/30_select)
 31. [Тайм-ауты](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/31_timeouts)
 32. [Неблокирующие операции с каналами](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/32_non_blocking_channel_operations)
-33. Закрытие каналов
+33. [Закрытие каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/33_closing_channels)
 34. Range по каналам
 35. Таймеры
 36. Тикеры
