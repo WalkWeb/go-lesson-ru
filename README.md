@@ -44,7 +44,7 @@
 31. [Тайм-ауты](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/31_timeouts)
 32. [Неблокирующие операции с каналами](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/32_non_blocking_channel_operations)
 33. [Закрытие каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/33_closing_channels)
-34. Range по каналам
+34. [Range по каналам](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/34_range_over_channels)
 35. Таймеры
 36. Тикеры
 37. Рабочие пулы
