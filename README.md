@@ -46,7 +46,7 @@
 33. [Закрытие каналов](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/33_closing_channels)
 34. [Range по каналам](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/34_range_over_channels)
 35. [Таймеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/35_timers)
-36. Тикеры
+36. [Тикеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/36_tickers)
 37. Рабочие пулы
 38. WaitGroup
 39. Ограничение скорости
