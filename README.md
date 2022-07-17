@@ -47,7 +47,7 @@
 34. [Range по каналам](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/34_range_over_channels)
 35. [Таймеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/35_timers)
 36. [Тикеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/36_tickers)
-37. Рабочие пулы
+37. [Рабочие пулы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/37_worker_pools)
 38. WaitGroup
 39. Ограничение скорости
 40. sync/atomic
