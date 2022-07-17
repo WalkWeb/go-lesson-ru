@@ -48,7 +48,7 @@
 35. [Таймеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/35_timers)
 36. [Тикеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/36_tickers)
 37. [Рабочие пулы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/37_worker_pools)
-38. WaitGroup
+38. [WaitGroup](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/38_waitgroups)
 39. Ограничение скорости
 40. sync/atomic
 41. Mutexes
