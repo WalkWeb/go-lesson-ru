@@ -49,7 +49,7 @@
 36. [Тикеры](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/36_tickers)
 37. [Рабочие пулы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/37_worker_pools)
 38. [WaitGroup](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/38_waitgroups)
-39. Ограничение скорости
+39. [Ограничение скорости](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/39_rate_limiting)
 40. sync/atomic
 41. Mutexes
 42. Отслеживание состояний горутин
