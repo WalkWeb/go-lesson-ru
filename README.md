@@ -50,7 +50,7 @@
 37. [Рабочие пулы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/37_worker_pools)
 38. [WaitGroup](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/38_waitgroups)
 39. [Ограничение скорости](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/39_rate_limiting)
-40. sync/atomic
+40. [sync/atomic](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/40_atomic_counters)
 41. Mutexes
 42. Отслеживание состояний горутин
 43. Сортировка
