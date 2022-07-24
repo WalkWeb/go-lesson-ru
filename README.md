@@ -53,7 +53,7 @@
 40. [sync/atomic](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/40_atomic_counters)
 41. [Mutexes](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/41_mutexes)
 42. Отслеживание состояний горутин
-43. Сортировка
+43. [Сортировка](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/43_sorting)
 44. Сортировка по функциям
 45. Panic
 46. Defer
