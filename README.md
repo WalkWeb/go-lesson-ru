@@ -55,7 +55,7 @@
 42. Отслеживание состояний горутин
 43. [Сортировка](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/43_sorting)
 44. [Сортировка по функциям](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/44_sorting_by_functions)
-45. Panic
+45. [Panic](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/45_panic)
 46. Defer
 47. Recover
 48. Строковые функции
