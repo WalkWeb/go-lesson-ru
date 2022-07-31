@@ -57,7 +57,7 @@
 44. [Сортировка по функциям](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/44_sorting_by_functions)
 45. [Panic](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/45_panic)
 46. [Defer](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/46_defer)
-47. Recover
+47. [Recover](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/47_recover)
 48. Строковые функции
 49. Форматирование строк
 50. Текстовые шаблоны
