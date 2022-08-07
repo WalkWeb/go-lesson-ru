@@ -90,4 +90,4 @@
 77. Порождение процессов
 78. Выполнение процессов
 79. Сингалы
-80. Exit
+80. [Exit](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/80_exit)
