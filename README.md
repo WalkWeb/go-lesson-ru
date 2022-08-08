@@ -85,7 +85,7 @@
 72. Подкоманды командной строки
 73. Переменные среды (env)
 74. [HTTP-клиенты](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/74_http_client)
-75. HTTP-серверы
+75. [HTTP-серверы](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/75_http_servers)
 76. Контекст
 77. Порождение процессов
 78. Выполнение процессов
