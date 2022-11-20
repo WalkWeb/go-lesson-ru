@@ -59,7 +59,7 @@
 46. [Defer](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/46_defer)
 47. [Recover](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/47_recover)
 48. [Строковые функции](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/48_string_functions)
-49. Форматирование строк
+49. [Форматирование строк](https://github.com/WalkWeb/go-lesson-ru/tree/master/lessons/49_string_formatting)
 50. Текстовые шаблоны
 51. Регулярные выражения
 52. JSON
